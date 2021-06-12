@@ -22,6 +22,8 @@ This currently includes:
 * [Netherlands](COVID-19%20regional%20graphs%20-%20Netherlands)
 * [South Africa](COVID-19%20regional%20graphs%20-%20South%20Africa)
 * [Switzerland](COVID-19%20regional%20graphs%20-%20Switzerland)
+
+The following two are not being successfully generated  right now.
 * [United States](COVID-19%20regional%20graphs%20-%20USA)
 * [United Kingdom](COVID-19%20regional%20graphs%20-%20UK)
 
