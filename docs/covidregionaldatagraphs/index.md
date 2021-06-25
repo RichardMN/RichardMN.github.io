@@ -24,8 +24,8 @@ This currently includes:
 * [Switzerland](COVID-19%20regional%20graphs%20-%20Switzerland)
 
 The following two are not being successfully generated  right now.
-* [United States](COVID-19%20regional%20graphs%20-%20USA)
-* [United Kingdom](COVID-19%20regional%20graphs%20-%20UK)
+* [United States](COVID-19%20regional%20graphs%20-%20United%20States)
+* [United Kingdom](COVID-19%20regional%20graphs%20-%20United%20Kingdom)
 
 The graphs are generated using a collection of code called
 [`covidregionaldatagraphs`](https://github.com/RichardMN/covidregionaldatagraphs)
