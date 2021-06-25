@@ -22,10 +22,8 @@ This currently includes:
 * [Netherlands](COVID-19%20regional%20graphs%20-%20Netherlands)
 * [South Africa](COVID-19%20regional%20graphs%20-%20South%20Africa)
 * [Switzerland](COVID-19%20regional%20graphs%20-%20Switzerland)
-
-The following two are not being successfully generated  right now.
-* [United States](COVID-19%20regional%20graphs%20-%20United%20States)
 * [United Kingdom](COVID-19%20regional%20graphs%20-%20United%20Kingdom)
+* [United States](COVID-19%20regional%20graphs%20-%20United%20States)
 
 The graphs are generated using a collection of code called
 [`covidregionaldatagraphs`](https://github.com/RichardMN/covidregionaldatagraphs)
