@@ -17,7 +17,7 @@ This currently includes:
 * [Germany](COVID-19%20regional%20graphs%20-%20Germany)
 * [India](COVID-19%20regional%20graphs%20-%20India)
 * [Italy](COVID-19%20regional%20graphs%20-%20Italy)
-* [Lithuania](COVID-19%20regional%20graphs%20-%20Lithuania)
+* [Lithuania](COVID-19%20regional%20graphs%20-%20Lithuania) [(additional graphs)](COVID-19%20regional%20graphs%20-%20Lithuania-specific)
 * [Mexico](COVID-19%20regional%20graphs%20-%20Mexico)
 * [Netherlands](COVID-19%20regional%20graphs%20-%20Netherlands)
 * [South Africa](COVID-19%20regional%20graphs%20-%20South%20Africa)
