@@ -13,6 +13,7 @@ This currently includes:
 * [Canada](COVID-19%20regional%20graphs%20-%20Canada)
 * [Colombia](COVID-19%20regional%20graphs%20-%20Colombia)
 * [Cuba](COVID-19%20regional%20graphs%20-%20Cuba)
+* [Estonia](COVID-19%20regional%20graphs%20-%20Estonia)
 * [France](COVID-19%20regional%20graphs%20-%20France)
 * [Germany](COVID-19%20regional%20graphs%20-%20Germany)
 * [India](COVID-19%20regional%20graphs%20-%20India)
@@ -24,7 +25,8 @@ This currently includes:
 * [Switzerland](COVID-19%20regional%20graphs%20-%20Switzerland)
 * [United Kingdom](COVID-19%20regional%20graphs%20-%20United%20Kingdom)
 * [United States](COVID-19%20regional%20graphs%20-%20United%20States)
-
+* [Vietnam](COVID-19%20regional%20graphs%20-%20Vietnam)
+* 
 The graphs are generated using a collection of code called
 [`covidregionaldatagraphs`](https://github.com/RichardMN/covidregionaldatagraphs)
 which uses the 
