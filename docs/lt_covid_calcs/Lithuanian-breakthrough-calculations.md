@@ -89,7 +89,7 @@ infection_comparisons %>%
   scale_x_date()
 ```
 
-![](/covidregionaldatagraphs/images-cases_graph_contributions-1.png)<!-- -->
+![](/lt_covid_calcs/images/cases_graph_contributions-1.png)<!-- -->
 
 ``` r
 infection_comparisons %>%
@@ -116,7 +116,7 @@ infection_comparisons %>%
   scale_x_date()
 ```
 
-![](/covidregionaldatagraphs/images-cases_graph_fractions-1.png)<!-- -->
+![](/lt_covid_calcs/images/cases_graph_fractions-1.png)<!-- -->
 
 ``` r
 infection_comparisons %>%
@@ -145,7 +145,7 @@ infection_comparisons %>%
   scale_x_date()
 ```
 
-![](/covidregionaldatagraphs/images-cases_by_status_proportional-1.png)<!-- -->
+![](/lt_covid_calcs/images/cases_by_status_proportional-1.png)<!-- -->
 
 ``` r
 infection_comparisons %>%
@@ -183,7 +183,7 @@ infection_comparisons %>%
   scale_x_date()
 ```
 
-![](/covidregionaldatagraphs/images-vaccine_effectiveness_7d-1.png)<!-- -->
+![](/lt_covid_calcs/images/vaccine_effectiveness_7d-1.png)<!-- -->
 
 ``` r
 infection_comparisons %>%
@@ -221,4 +221,4 @@ infection_comparisons %>%
   scale_x_date()
 ```
 
-![](/covidregionaldatagraphs/images-vaccine_effectiveness_14d-1.png)<!-- -->
+![](/lt_covid_calcs/images/vaccine_effectiveness_14d-1.png)<!-- -->
