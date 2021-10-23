@@ -30,9 +30,9 @@ jobs:
         mkdir /tmp/target
         git clone https://.:${{ secrets.GITHUB_TOKEN }}@github.com/RichardMN/covidregionaldatagraphs /tmp/target
         cp -pR /tmp/target/extra/output/* docs/covidregionaldatagraphs
-        rm /tmp/target/*
-        git clone https://.:${{ secrets.GITHUB_TOKEN }}@github.com/RichardMN/lt_covid_calcs /tmp/target
-        cp -pR /tmp/target/output/* docs/lt_covid_calcs
+        mkdir /tmp/target2
+        git clone https://.:${{ secrets.GITHUB_TOKEN }}@github.com/RichardMN/lt_covid_calcs /tmp/target2
+        cp -pR /tmp/target2/output/* docs/lt_covid_calcs
 
     - name: Commit changes
       uses: EndBug/add-and-commit@v7
